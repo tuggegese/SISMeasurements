@@ -13,10 +13,6 @@ setup(
               "pi-ina219",
               "PyWavelets",
               "statsmodels",
-              "pytz"]
+              "pytz",
+              "tinydb"]
       )
-    
-
-
-
-
